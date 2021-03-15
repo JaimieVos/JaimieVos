@@ -1,16 +1,24 @@
-### Hi there 👋
+## 👋 Introduction
 
-<!--
-**JelleVos1/JelleVos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi guys, I'm **Jelle Vos**. I am a back-end developer from the Netherlands. I am currently following a bachelor program in computer science and in my free time I like to learn as much new things as possible. My biggest interest lies within game development.
+I have worked with **C++**, **Java** and **PHP**. Feel free to contact me if you have same interests or some questions!
 
-Here are some ideas to get you started:
+## 📫 Contact me on Social Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/vosjellevos/) | [Twitter](https://twitter.com/Jelle_Vos1) | [Email](mailto:jelle.vos@outlook.com)
+
+## 💡 Highlited GitHub projects
+
+- [**Watermarker**](https://github.com/JelleVos1/watermarker): An application to watermark entire directories of images at once.
+- [**Tic Tac Toe**](https://github.com/JelleVos1/Tic-Tac-Toe): A tic tac toe game written in C++.
+
+<!--## 📚 Tech Articles and Talks -->
+
+<!--You can find a list of my talks' presentation on 📖 . -->
+
+<!--And get all my post articles in my blog 📝. -->
+ 
+## 💻 Open Source Work Stats
+
+
+![Jelle Vos Github stats](https://github-readme-stats.vercel.app/api?username=JelleVos1&show_icons=true)
