@@ -8,7 +8,7 @@ I have worked with **C++**, **Java** and **PHP**. Feel free to contact me if you
 [LinkedIn](https://www.linkedin.com/in/vosjellevos/) | [Twitter](https://twitter.com/Jelle_Vos1) | [Email](mailto:jelle.vos@outlook.com)
 
 ## 💡 Highlited GitHub projects
-- [**SDL Game Engine**](https://github.com/JelleVos1/sdl-game-engine): A 2D game engine written in C++.
+- [**Wase Engine**](https://github.com/JelleVos1/sdl-game-engine): A 2D game engine written in C++.
 - [**Watermarker**](https://github.com/JelleVos1/watermarker): An application to watermark entire directories of images at once written in C++.
 - [**Tic Tac Toe**](https://github.com/JelleVos1/Tic-Tac-Toe): A tic tac toe game written in C++.
 
