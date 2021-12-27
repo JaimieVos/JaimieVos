@@ -21,4 +21,4 @@ I have worked with **C++**, **Java** and **PHP**. Feel free to contact me if you
 ## 💻 Open Source Work Stats
 
 
-![Jelle Vos Github stats](https://github-readme-stats.vercel.app/api?username=JaimieVos&show_icons=true)
+![Jaimie Vos Github stats](https://github-readme-stats.vercel.app/api?username=JaimieVos&show_icons=true)
