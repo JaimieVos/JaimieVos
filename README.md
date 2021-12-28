@@ -1,7 +1,7 @@
 ## 👋 Introduction
 
 Hi guys, I'm **Jaimie Vos**. I am a software developer from the Netherlands. I am currently following a bachelor program in computer science and in my free time I like to learn as much new things as possible. My biggest interest lies within game development.
-I have worked with **C++**, **Java** and **PHP**. Feel free to contact me if you have same interests or some questions!
+I have worked with **C++**, **C#** and **Java**. Feel free to contact me if you have same interests or some questions!
 
 ## 📫 Contact me on Social Media
 
