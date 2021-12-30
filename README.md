@@ -5,7 +5,7 @@ I have worked with **C++**, **C#** and **Java**. Feel free to contact me if you 
 
 ## 📫 Contact me on Social Media
 
-[LinkedIn](https://www.linkedin.com/in/jaimievos/) | [Twitter](https://twitter.com/JaimieVos) | [Email](mailto:jaimie.vos@outlook.com)
+[Website](https://jaimie.dev/) | [LinkedIn](https://www.linkedin.com/in/jaimievos/) | [Twitter](https://twitter.com/JaimieVos) | [Email](mailto:jaimie.vos@outlook.com)
 
 ## 💡 Highlited GitHub projects
 - [**Wase Engine**](https://github.com/Wase-Engine): An open source 2D game engine written in C++.
