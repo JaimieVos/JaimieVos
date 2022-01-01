@@ -11,7 +11,6 @@ I have worked with **C++**, **C#** and **Java**. Feel free to contact me if you 
 - [**Wase Engine**](https://github.com/Wase-Engine): An open source 2D game engine written in C++.
 - [**OpenGL Framework**](https://github.com/JaimieVos/opengl-framework) A basic framework that can be used to experiment with OpenGL
 - [**Watermarker**](https://github.com/JaimieVos/watermarker): An application to watermark entire directories of images at once written in C++.
-- [**Tic Tac Toe**](https://github.com/JaimieVos/Tic-Tac-Toe): A tic tac toe game written in C++.
 
 <!--## 📚 Tech Articles and Talks -->
 
