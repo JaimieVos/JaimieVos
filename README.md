@@ -9,7 +9,7 @@ I have worked with **C++**, **C#** and **Java**. Feel free to contact me if you 
 
 ## 💡 Highlited GitHub projects
 - [**Wase Engine**](https://github.com/Wase-Engine): An open source 2D game engine written in C++.
-- [**Wase ECS**](https://github.com/Wase-ECS): An entity component system written in C++.
+- [**Wase ECS**](https://github.com/Wase-Engine/wase-ecs): An entity component system written in C++.
 - [**OpenGL Framework**](https://github.com/JaimieVos/opengl-framework) A basic framework that can be used to experiment with OpenGL.
 - [**Threadpool**](https://github.com/JaimieVos/threadpool) A C++17 header-only threadpool library.
 
