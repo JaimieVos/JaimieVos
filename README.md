@@ -7,7 +7,7 @@ I have worked with **C++**, **C#** and **Java**. Feel free to contact me if you 
 
 [Website](https://jaimie.dev/) | [LinkedIn](https://www.linkedin.com/in/jaimievos/) | [Twitter](https://twitter.com/JaimieVos) | [Email](mailto:jaimie.vos@outlook.com)
 
-## 💡 Highlited GitHub projects
+## 💡 Highlighted GitHub projects
 - [**Wase Engine**](https://github.com/Wase-Engine): An open source 2D game engine written in C++.
 - [**Wase ECS**](https://github.com/Wase-Engine/wase-ecs): An entity component system written in C++.
 - [**OpenGL Framework**](https://github.com/JaimieVos/opengl-framework) A basic framework that can be used to experiment with OpenGL.
