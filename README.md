@@ -13,7 +13,7 @@ I have worked with **C++**, **C#** and **Java**. Feel free to contact me if you 
 - [**OpenGL Framework**](https://github.com/JaimieVos/opengl-framework) A basic framework that can be used to experiment with OpenGL.
 - [**Threadpool**](https://github.com/JaimieVos/threadpool) A C++17 header-only threadpool library.
 
-## GitHub Certifications
+## 🎓 GitHub Certifications
 [![GitHub Certification Picture](github-administration.png)](https://www.credly.com/badges/cb539477-ece0-4e1c-b585-816beceda696/public_url)
  
 ## 💻 Open Source Work Stats
