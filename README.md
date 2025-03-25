@@ -16,6 +16,7 @@ I have worked with **C++**, **C#** and **Java**. Feel free to contact me if you 
 ## 🎓 GitHub Certifications
 [![GitHub Certification Picture](github-administration.png)](https://www.credly.com/badges/cb539477-ece0-4e1c-b585-816beceda696/public_url)
 [![GitHub Certification Picture](github-advanced-security.png)](https://www.credly.com/badges/366a93ab-fd7e-4465-ac33-812997ae1749/public_url)
+[![GitHub Certification Picture](github-copilot.png)](https://www.credly.com/badges/6a943dd7-fdf3-4900-821e-12b789d6e7c7/public_url)
  
 ## 💻 Open Source Work Stats
 
